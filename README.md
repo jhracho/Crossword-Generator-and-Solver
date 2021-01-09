@@ -23,5 +23,10 @@ There are three different ways this code can be run.
 ./crossword input.txt output.txt
 ```
 
+### Example output
+|Word Input|Generated Solution|Generated Puzzle|Generated Clues|
+|----------|------------------|----------------|---------------|
+|![](screenshots/input.JPG)|![](screenshots/solution.JPG)|![](screenshots/blank.JPG)|![](screenshots/clues.JPG)|
+
 ### Further developments
 I can explore more options for the presentation of word clues. Perhaps I can establish connectivitity with some sort of API that supplies crossword clues when a word is passed in the request body. 
